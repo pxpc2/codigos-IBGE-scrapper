@@ -1,0 +1,1 @@
+scrapper do arquivo gerado a partir da lista de municípios e códigos relacionados do IBGE, junto com outros dados específicos de cada município. Inclui todos os municípios brasileiros atualizado até Março/24. Desenvolvido para uso no sistema ConfidensAgro
